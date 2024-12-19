@@ -1,4 +1,4 @@
-## I am just an undergraduate student learning the basics, intrested in terminals, window-managers and OS<
+## I am just an undergraduate student learning the basics, intrested in terminals, window-managers and OS
 
 - Favourite editor **Vim**
 
